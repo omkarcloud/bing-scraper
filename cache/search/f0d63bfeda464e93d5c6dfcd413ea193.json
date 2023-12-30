@@ -1,0 +1,60 @@
+{
+    "data": {
+        "count": 14,
+        "next": "https://bing-scraper.p.rapidapi.com/search/?query=mango&offset=19",
+        "previous": "https://bing-scraper.p.rapidapi.com/search/?query=mango&offset=0",
+        "results": [
+            {
+                "title": "Fashion for Women | Mango USA",
+                "link": "https://www.bing.com/rebates/welcome?url=https%3a%2f%2fshop.mango.com%2fus%2fwomen&murl=https%3a%2f%2fwww.jdoqocy.com%2fclick-9069228-14353410%3furl%3dhttps%253a%252f%252fshop.mango.com%252fus%252fwomen%26afsrc%3d1%26SID%3d&id=mango&name=mango&ra=2%&hash=7602d5a3a38b9c13c232397ec91f98d2b0365fe20d7c5c31030f2bfa0236788f&network=CJ",
+                "description": "Latest trends in fashion for women. Discover our designs: dresses, tops, jeans, shoes, bags and accessories. Free delivery from US$50 - Returns within 30 days - Pay \u2026"
+            },
+            {
+                "title": "Mango - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Mango",
+                "description": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands. M. indica has been cultivated in South and Southeast Asia since ancient times resulting in two types of modern mango cultivars: the \"Indian type\" and the \"Southeast Asian type\". Other species in th\u2026"
+            },
+            {
+                "title": "Mango: Nutrition, Health Benefits, and How to Eat It",
+                "link": "https://www.healthline.com/nutrition/mango",
+                "description": null
+            },
+            {
+                "title": "Mango: Health Benefits, Nutrients per Serving, \u2026",
+                "link": "https://www.webmd.com/diet/health-benefits-mango",
+                "description": "WebMangoes are sweet, colorful, and nutritious fruits that can help lower your risk of cancer, support your heart health, and improve your digestive health. Learn about the types, \u2026"
+            },
+            {
+                "title": "Learn About Mango Fruit - Facts, Nutrition, & More | Mango Board",
+                "link": "https://www.mango.org/about-mangos/",
+                "description": "WebLearn all about mangos. From their journey on the mango tree, how to choose them at the grocery store and how to cut them. Visit Mango.org today!"
+            },
+            {
+                "title": "Moda de Mulher | Mango Portugal",
+                "link": "https://shop.mango.com/pt/mulher",
+                "description": "Web\u00daltimas tend\u00eancias em moda para mulheres. Descubra os nossos designs: vestidos, tops, jeans, sapatos, malas e acess\u00f3rios. Envio gratuito a partir de 30 \u20ac - Devolu\u00e7\u00f5es durante 30 dias"
+            },
+            {
+                "title": "Mod\u0103 pentru Femei | Mango Rom\u00e2nia",
+                "link": "https://shop.mango.com/ro/femei",
+                "description": "WebValabil \u00een magazinele \u0219i online din Rom\u00e2nia. In limita stocului disponibil. Discountul maxim se aplic\u0103 la colec\u021bia pentru femei Mango. Pentru restul liniilor de produse, se aplic\u0103 un discount egal sau mai mic. Discountul nu \u2026"
+            },
+            {
+                "title": "Fashion for Woman | Mango Bosnia-Herzegovina",
+                "link": "https://shop.mango.com/ba/women",
+                "description": "WebAvailable at stores and online in Bosnia-Herzegovina while stocks last. Maximum discount applied to the Mango Woman collection. For all other lines, the discount will be equal or lower. The discount does not apply to the new collection. The advertised discount will be applied to the price at the start of the season."
+            },
+            {
+                "title": "Fashion for Woman | Mango The Philippines",
+                "link": "https://shop.mango.com/ph/women",
+                "description": "WebAvailable at stores and online in the Philippines while stocks last. Maximum discount applied to the Mango Woman collection. For all other lines, the discount will be equal or lower. The discount does not apply to the new collection. The advertised discount will be applied to the price at the start of the season."
+            },
+            {
+                "title": "Fashion for Woman | Mango Ireland",
+                "link": "https://shop.mango.com/ie/women",
+                "description": "WebAvailable at stores and online in Ireland while stocks last. Maximum discount applied to the Mango Woman collection. For all other lines, the discount will be equal or lower. The discount does not apply to the new collection. The advertised discount will be applied to the price at the start of the season."
+            }
+        ]
+    },
+    "error": null
+}

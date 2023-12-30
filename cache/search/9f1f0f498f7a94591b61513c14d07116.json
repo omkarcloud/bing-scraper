@@ -1,0 +1,60 @@
+{
+    "data": {
+        "count": 14,
+        "next": "https://bing-scraper.p.rapidapi.com/search/?query=watermelon&offset=20",
+        "previous": "https://bing-scraper.p.rapidapi.com/search/?query=watermelon&offset=0",
+        "results": [
+            {
+                "title": "Watermelon 101: Nutrition Facts and Health Benefits",
+                "link": "https://www.healthline.com/nutrition/foods/watermelon",
+                "description": "High blood pressure is a major risk factor for chronic disease and premature death (25Trusted Source). Watermelon is a good source of citrulline, which is converted into arginine in your body. Both of these amino acids aid nitric oxide production. Nitric oxide is a gas molecule that causes the tiny muscles around \u2026 See more"
+            },
+            {
+                "title": "Watermelon - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Watermelon",
+                "description": "Watermelon (Citrullus lanatus) is a flowering plant species of the Cucurbitaceae family and the name of its edible fruit. A scrambling and trailing vine-like plant, it is a highly cultivated fruit worldwide, with more than 1,000 varieties. Watermelon is grown in favorable climates from tropical to temperate regions worldwide for its large edible fruit, which is a berry with a hard rind and no intern\u2026"
+            },
+            {
+                "title": "Top 9 Health Benefits of Eating Watermelon",
+                "link": "https://www.healthline.com/nutrition/watermelon-health-benefits",
+                "description": null
+            },
+            {
+                "title": "Nutrition Facts and Health Benefits of Watermelon",
+                "link": "https://www.watermelon.org/the-slice/nutrition...",
+                "description": null
+            },
+            {
+                "title": "Watermelon Nutrition Facts and Health Benefits",
+                "link": "https://www.verywellfit.com/nutrition-facts-and-watermelon-carbs-1087575",
+                "description": "Learn how watermelon is a low-calorie, hydrating, and antioxidant-rich summer fruit that can help fight dehydration, blood \u2026"
+            },
+            {
+                "title": "Watermelon: Health benefits, nutrition, and risks - Medical \u2026",
+                "link": "https://www.medicalnewstoday.com/articles/266886",
+                "description": "Watermelon is a 90% water fruit that contains antioxidants, vitamins, and minerals. It may help prevent or treat various health conditions, such as asthma, blood \u2026"
+            },
+            {
+                "title": "How to Pick a Watermelon That's Sweet and Ripe",
+                "link": "https://www.realsimple.com/food-recipes/shopping-storing/food/how-to-pick-watermelon",
+                "description": "Grace Canaan. The coloring of your watermelon helps indicate the ripeness of the fruit. You should pick a melon that has a strong, consistent stripe pattern. The green stripes should be a deep, dark \u2026"
+            },
+            {
+                "title": "Watermelon: Nutrition, Health Benefits, Risks, More",
+                "link": "https://www.everydayhealth.com/diet-nutrition/diet/watermelon-nutrition-carbs-benefits-more-on-summer-staple/",
+                "description": "Watermelon is a hydrating fruit that is healthy for most people, including individuals with diabetes, when eaten in moderation. Some research suggests it may even promote heart health by lowering ..."
+            },
+            {
+                "title": "Watermelon Nutrition Facts and Health Benefits",
+                "link": "https://www.verywellfit.com/nutrition-facts-and-watermelon-carbs-1087575",
+                "description": "Debra Manzella, MS, RN, is a corporate clinical educator at Catholic Health System in New York with extensive experience in diabetes care. One cup diced watermelon (152g) provides 46 calories, 0.9g of \u2026"
+            },
+            {
+                "title": "Health Benefits of Watermelon - Cleveland Clinic Health Essentials",
+                "link": "https://health.clevelandclinic.org/benefits-of-watermelon",
+                "description": "Even watermelon seeds have benefits, with magnesium, iron, healthy fats and zinc. One cup of diced watermelon has only 46 calories and: 0 g of fat. 1 mg of sodium. 9 g of sugar. 10 mg of calcium ..."
+            }
+        ]
+    },
+    "error": null
+}
